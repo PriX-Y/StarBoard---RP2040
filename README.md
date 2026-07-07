@@ -3,7 +3,7 @@
 <img width="322" height="589" alt="image" src="https://github.com/user-attachments/assets/c7922012-4704-4471-bd52-c525fc16f076" />
 <img width="1154" height="584" alt="image" src="https://github.com/user-attachments/assets/cfc393f4-196f-4088-b79c-a58112b702ea" />
 
-its my 4th time when i making devboard but i think this time i can finnaly make it
+its my own **rp2040** devboard made with hackclub. its my first devboard project what i finnaly end
 
 # Program what i use:
 
