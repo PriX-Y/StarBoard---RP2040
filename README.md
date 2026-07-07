@@ -1,9 +1,10 @@
 # StarBoard---RP2040
 
+its my own Open source **rp2040** devboard made with hackclub. its my first devboard project what i finnaly end
+
 <img width="322" height="589" alt="image" src="https://github.com/user-attachments/assets/c7922012-4704-4471-bd52-c525fc16f076" />
 <img width="1154" height="584" alt="image" src="https://github.com/user-attachments/assets/cfc393f4-196f-4088-b79c-a58112b702ea" />
 
-its my own **rp2040** devboard made with hackclub. its my first devboard project what i finnaly end
 
 # Program what i use:
 
@@ -16,6 +17,9 @@ https://www.nextpcb.com/blog/compare-rp2040-rp2350
 and little from tutorial:
 
 https://stasis.hackclub.com/starter-projects/devboard
+# suggestion 
+
+if you wanna buy this you need use my cpl and bom version not becuse you need it but becuse i spend like 1 hours to seearch for the part id on jscs to get it on jlpcb so i to suggest use jlpcb
 
 # cost
 
