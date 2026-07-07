@@ -5,4 +5,26 @@
 
 its my 4th time when i making devboard but i think this time i can finnaly make it
 
+# Program what i use:
+
+- Kicad -
+
+# Datasheet what i use:
+
+https://www.nextpcb.com/blog/compare-rp2040-rp2350
+
+and little from tutorial:
+
+https://stasis.hackclub.com/starter-projects/devboard
+
+# cost
+
+becuse i made in 2 layer is maybe cheap. but let know if you go only pcb  and self soldring this can be +- 40$ with parts i didt have hot air and hot plate so i go pcba way
+
+there is full cost for me with delivery cost and duty for me to poland
 <img width="1855" height="789" alt="Zrzut ekranu 2026-07-04 183043" src="https://github.com/user-attachments/assets/4a4919f3-d3f5-4819-8727-50a8155dd2ed" />
+
+there is cart
+
+<img width="1910" height="652" alt="Zrzut ekranu 2026-07-04 181844" src="https://github.com/user-attachments/assets/083d1cdb-b43d-4da6-acc4-a8a96ac6cff5" />
+
